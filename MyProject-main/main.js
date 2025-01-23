@@ -1,4 +1,4 @@
-let originalLanguage = "ar"; // اللغة الأصلية
+let originalLanguage = "ar"; 
 let currentLanguage = originalLanguage;
 
 function changeLanguage(language) {
